@@ -5,5 +5,5 @@ Threadbare bot to demonstrate most likely Discord bot functionality.
 
 
 .env file format:
-DISCORD_TOKEN = <token here>
-DISCORD_GUILD = <server name here>
+DISCORD_TOKEN = token here
+DISCORD_GUILD = server name here
