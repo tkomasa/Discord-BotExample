@@ -6,6 +6,7 @@ from dotenv import dotenv_values
 import random
 
 # retrieve token from .env file
+# this can also be replaced with simple variable assignment to avoid using the .env file
 env = dotenv_values(".env")
 TOKEN = env['DISCORD_TOKEN']
 GUILD = env['DISCORD_GUILD']
