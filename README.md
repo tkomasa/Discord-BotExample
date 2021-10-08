@@ -9,3 +9,5 @@ Threadbare bot to demonstrate most likely Discord bot functionality.
 DISCORD_TOKEN = token here
 
 DISCORD_GUILD = server name here
+
+The bot has several general use cases coded in for working examples of common functionality.
